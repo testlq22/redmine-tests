@@ -1,0 +1,10 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/allure-results/
+/test-examples/
+/test/example.spec.ts
+package.json
+package-lock.json
+playwright.config.ts
